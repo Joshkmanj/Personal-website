@@ -76,6 +76,18 @@
   }
 }
 
+
+/* --------------------- My custom classes --------------------- */
+#blurboard{
+  backdrop-filter: blur(3px) contrast(0.8);
+  border-radius: 30px;
+  padding: .5% 0%;
+  margin-bottom: 3%;
+}
+
+
+/* --------------------- My custom classes --------------------- */
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
